@@ -1,1 +1,1 @@
-
+This project involves demographic data and police fatality statistics across U.S. states. The datasets were cleaned, visualized using tools like Plotly Express, Matplotlib, and Seaborn. Additionally, a machine learning model (RandomForestClassifier) was trained and evaluated on police fatality incidents.
